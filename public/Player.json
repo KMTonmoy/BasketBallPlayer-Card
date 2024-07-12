@@ -1,0 +1,62 @@
+[
+  {
+    "name": "LeBron James",
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTHqyoYH5e_FDljrj8rZyd3m7zTuk4tGOvUe33DOG4PwMNQNBTu-KRLqWCVy8EHt0wnYPnuhqG36eSd6qo",
+    "position": "Forward",
+    "stats": {
+      "pointsPerGame": 25.4,
+      "assistsPerGame": 7.1,
+      "reboundsPerGame": 10.5
+    }
+  },
+  {
+    "name": "Stephen Curry",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRKKIF0wtWAufZJPzCTpnKTDdBHE4uDGYbSdQ6G0Iti3P7a99u_qvDXFpULBXwmNJF-9oZpfJWYD8t-Atk",
+    "position": "Guard",
+    "stats": {
+      "pointsPerGame": 29.5,
+      "assistsPerGame": 6.2,
+      "reboundsPerGame": 5.3
+    }
+  },
+  {
+    "name": "Kevin Durant",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQdGP7vF-pK-LGFNGY9NFVE9FBjHh7cQEQYga4bxReU4V_twjYiZjke1csHwlZYbPrsyxgOB47l7OuEqDI",
+    "position": "Forward",
+    "stats": {
+      "pointsPerGame": 27.1,
+      "assistsPerGame": 5.8,
+      "reboundsPerGame": 7.2
+    }
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS_y_HX8L7roYZNYk0EeJb0j3Dph2lTf8QkClE9yCHKbd9Y-Tp6TLT2G2v2vRdVbDg2_QiCK9dvkP50UmM",
+    "position": "Forward",
+    "stats": {
+      "pointsPerGame": 28.8,
+      "assistsPerGame": 5.9,
+      "reboundsPerGame": 11.0
+    }
+  },
+  {
+    "name": "James Harden",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQoWUh0X43kjGMSva03XTzU0oCPkaMkxyhgseznKxmK_X-6vWTvleRabKR9MO5FpR_r6cmPtF1Ae7AcQyc",
+    "position": "Guard",
+    "stats": {
+      "pointsPerGame": 24.6,
+      "assistsPerGame": 10.4,
+      "reboundsPerGame": 7.5
+    }
+  },
+  {
+    "name": "Kawhi Leonard",
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6K4cba-eLvQgupkpelZIX45Qh7O5_MtTRSFsTFxy_oxilThUiLQ11iEiPFsF0mQ0tV2dDvtV2Zgj7gKo",
+    "position": "Forward",
+    "stats": {
+      "pointsPerGame": 25.5,
+      "assistsPerGame": 5.2,
+      "reboundsPerGame": 6.8
+    }
+  }
+]
